@@ -1,4 +1,4 @@
-import payment.models.Student;
+import com.digital.models.Student;
 import org.testng.annotations.Test;
 
 public class PracticePageFormTest extends BaseTest {
