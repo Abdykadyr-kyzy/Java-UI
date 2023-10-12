@@ -1,4 +1,4 @@
-import com.digital.models.Person;
+import payment.models.Person;
 import org.testng.annotations.Test;
 
 public class RegisterFormPageTest extends BaseTest {
