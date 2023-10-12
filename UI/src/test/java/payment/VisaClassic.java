@@ -1,4 +1,5 @@
-public class VisaClassic(){
+package payment;
+public class VisaClassic{
   public void payByVisaClassic(){
     
   }
