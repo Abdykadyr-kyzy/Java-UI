@@ -1,6 +1,5 @@
 import com.digital.driver.Driver;
 import com.digital.pages.*;
-import payment.pages.*;
 import com.digital.utils.FakeDataProvider;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.BeforeClass;
